@@ -21,7 +21,7 @@ import java.util.List;
 
 public class SingersActivity extends AppCompatActivity {
     Filters filters;
-    Spinner spinner1, spinner2, spinner3, spinner4;
+    Spinner spinner1, spinner2, spinner3; //spinner4;
     HelperLists helperLists=new HelperLists();
     public static List<String> geners=new ArrayList<>();
 

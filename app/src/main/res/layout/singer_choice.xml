@@ -95,7 +95,7 @@
             android:fontFamily="serif-monospace"
             android:text="@string/textView39"
             android:textAlignment="viewStart"
-            android:textColor="@color/colorAccent"
+            android:textColor="#DFC008C7"
             android:textSize="24sp"
             android:textStyle="bold" />
 
